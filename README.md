@@ -5,8 +5,8 @@ Welcome to the Sentiment Analysis Project! This repository contains the code and
 bash
 Copy code
 sentiment-analysis-project/
-├── data/
-│   ├── raw/
+- ├── data/
+- │   ├── raw/
 │   │   └── tweets.csv             # Raw dataset
 │   ├── processed/
 │   │   └── processed_tweets.csv   # Preprocessed dataset
