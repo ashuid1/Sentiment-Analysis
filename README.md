@@ -7,17 +7,17 @@ Copy code
 sentiment-analysis-project/
 - ├── data/
 - │   ├── raw/
-│   │   └── tweets.csv             # Raw dataset
-│   ├── processed/
-│   │   └── processed_tweets.csv   # Preprocessed dataset
-├── models/
-│   └── sentiment_model.pkl        # Saved machine learning model
-├── notebooks/
-│   └── Sentiment_Analysis.ipynb   # Jupyter notebook with the analysis
-├── scripts/
-│   ├── preprocess.py              # Script for data preprocessing
-│   ├── train.py                   # Script for training the model
-│   └── evaluate.py                # Script for model evaluation
-├── requirements.txt               # List of dependencies
-├── README.md                      # Project overview and instructions
-└── LICENSE          
+- │   │   └── tweets.csv             # Raw dataset
+- │   ├── processed/
+- │   │   └── processed_tweets.csv   # Preprocessed dataset
+- ├── models/
+- │   └── sentiment_model.pkl        # Saved machine learning model
+- ├── notebooks/
+- │   └── Sentiment_Analysis.ipynb   # Jupyter notebook with the analysis
+- ├── scripts/
+- │   ├── preprocess.py              # Script for data preprocessing
+- │   ├── train.py                   # Script for training the model
+- │   └── evaluate.py                # Script for model evaluation
+- ├── requirements.txt               # List of dependencies
+- ├── README.md                      # Project overview and instructions
+- └── LICENSE          
