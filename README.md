@@ -21,3 +21,7 @@ sentiment-analysis-project/
 - ├── requirements.txt               # List of dependencies
 - ├── README.md                      # Project overview and instructions
 - └── LICENSE          
+
+
+### Running the Jupyter Notebook
+The Sentiment_Analysis.ipynb notebook provides a step-by-step walkthrough of the entire process, from data preprocessing to model evaluation. Open the notebook and run each cell to see the results.
